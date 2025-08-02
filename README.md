@@ -84,4 +84,6 @@ You can install dependencies using the provided requirements.txt file. Major pac
 - pandas
 
 📝 License
-This project is licensed under the [MIT License]()
+This project is licensed under the [MIT License](https://github.com/introverthacker11/20P2-ANN-BreastCancerPrediction-Project___r31/blob/main/LICENSE)
+
+# X-X-X
