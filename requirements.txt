@@ -2,6 +2,6 @@ tensorflow
 keras
 pandas
 numpy
-pickle
 streamlit
 scikit-learn
+
